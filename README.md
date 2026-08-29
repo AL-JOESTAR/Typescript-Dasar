@@ -45,3 +45,7 @@ tsc && node bundle/index.js
 ```properties
 https://youtu.be/TZ87Hyqvy10?si=jF5XZ-W_hA5rsvm-
 ```
+
+### Catatan
+
+sebaiknya ketika membuat state declare dulu biar jelas
